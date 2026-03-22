@@ -1,6 +1,6 @@
 # Zomato_dashboard_analysis
 
-![image alt](blinkit_dashboard.jpeg)
+![image alt](https://github.com/Khizar1108/Zomato_dashboard_analysis/blob/25f1fa8e4d1832ecf9e34c420bee4d14c5fe2269/Zomato_dashboard_final.jpeg)
 
 # 📌 Project Overview
 
